@@ -1,12 +1,13 @@
 # VSCode - Babel
 This is a standalone version of the syntax given with [vscode-flowtype](https://github.com/flowtype/flow-for-vscode).
+
 Improves majorly on the grammar distributed by default with vscode.
 
-This language extension brings no changes to intellisense
+This language extension brings no changes to the intellisense
 
 ## What does it looks like?
 
-### Ok i'm sold how do i try it?
+## Ok i'm sold how do i try it?
 You can find it on VSCode Marketplace
 shift+cmd+p + install extension -> search for Babel Syntax
 
@@ -15,7 +16,7 @@ shift+cmd+p + install extension -> search for Babel Syntax
 It should display Javascript (Babel) as current mode when you open js files in the status bar
 
 ### I installed this, my coloring looks even worse now
-This grammar emits specific token types that are not widely supported (but improve on the default ones).
+This grammar emits specific grammar token types that are not widely supported (but improve on the default ones).
 Any theme can color those tokens, however currently the only theme i know that does is [Spacemacs Theme](https://github.com/dzannotti/vscode-theme-spacemacs)
 
 **Enjoy!**
