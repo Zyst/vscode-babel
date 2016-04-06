@@ -1,0 +1,36 @@
+{
+  "name": "vscode-babel",
+  "displayName": "Babel Syntax",
+  "description": "Adds Babel es6/es7 syntax support",
+  "version": "0.0.1",
+  "publisher": "dzannotti",
+  "engines": { "vscode": "*" },
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "javascript",
+        "aliases": [ "Javascript (Babel)" ],
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".es6"
+        ],
+        "firstLine": "^#!.*\\bnode",
+        "mimetypes": [
+          "text/javascript"
+        ]
+      }
+    ],
+    "grammars": [{
+      "language": "javascript",
+      "scopeName": "source.js.jsx",
+      "path": "./syntaxes/Babel Language.json"
+    }, {
+      "scopeName": "source.regexp.babel",
+      "path": "./syntaxes/Babel Regex.json"
+    }]
+  }
+}
