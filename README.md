@@ -18,7 +18,7 @@ It should display Javascript (Babel) as current mode when you open js files in t
 This grammar emits specific token types that are not widely supported (but improve on the default ones).
 Any theme can color those tokens, however currently the only theme i know that does is [Spacemacs Theme](https://github.com/dzannotti/vscode-theme-spacemacs)
 
-** ¯\_(ツ)_/¯ Enjoy! ¯\_(ツ)_/¯**
+**¯\_(ツ)_/¯ Enjoy! ¯\_(ツ)_/¯**
 
 
 ## License
