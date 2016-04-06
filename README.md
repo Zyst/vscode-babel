@@ -24,6 +24,7 @@ Any theme can color those tokens, however currently the only theme i know that d
 ## License
 
 The original grammar files are licenced under [FB's licence](https://raw.githubusercontent.com/flowtype/flow-for-vscode/master/LICENSE)
+
 The rest of the repo is licenced under MIT
 
 The MIT License (MIT)
