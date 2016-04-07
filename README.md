@@ -1,4 +1,5 @@
 # VSCode - Babel
+
 This is a standalone version of the syntax given with [vscode-flowtype](https://github.com/flowtype/flow-for-vscode).
 
 Improves majorly on the grammar distributed by default with vscode.
@@ -6,19 +7,19 @@ Improves majorly on the grammar distributed by default with vscode.
 This language extension brings no changes to the intellisense
 
 ## What does it looks like?
-![Like this](https://raw.githubusercontent.com/dzannotti/vscode-babel/master/screenshot.png "Screenshot")
+![Like this](https://raw.githubusercontent.com/dzannotti/vscode-babel/master/images/screenshot.png "Screenshot")
 
-## Ok i'm sold how do i try it?
+## Ok I'm sold how do I try it?
 You can find it on VSCode Marketplace
 shift+cmd+p + install extension -> search for Babel Syntax
 
 ## FAQ
-### How do i know it's working?
+### How do I know it's working?
 It should display Javascript (Babel) as current mode when you open js files in the status bar
 
 ### I installed this, my coloring looks even worse now
 This grammar emits specific grammar token types that are not widely supported (but improve on the default ones).
-Any theme can color those tokens, however currently the only theme i know that does is [Spacemacs Theme](https://github.com/dzannotti/vscode-theme-spacemacs)
+Any theme can color those tokens, however currently the only theme I know that does is [Spacemacs Theme](https://github.com/dzannotti/vscode-theme-spacemacs)
 
 **Enjoy!**
 
@@ -37,5 +38,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Changelog
+0.0.4 - Fixed marketplace links
+0.0.3 - Added Marketplace icon
+0.0.2 - Readme adjustments
 0.0.1 - Initial release
 
