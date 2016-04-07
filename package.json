@@ -1,7 +1,7 @@
 {
-  "name": "vscode-babel",
-  "displayName": "Babel Syntax",
-  "description": "Adds Babel es6/es7 syntax support",
+  "name": "vscode-babel-coloring",
+  "displayName": "Babel ES6/ES7 Syntax coloring",
+  "description": "Adds Babel es6/es7 syntax coloring support",
   "version": "0.0.1",
   "publisher": "dzannotti",
   "engines": { "vscode": "*" },
