@@ -6,6 +6,7 @@ Improves majorly on the grammar distributed by default with vscode.
 This language extension brings no changes to the intellisense
 
 ## What does it looks like?
+![Like this](https://raw.githubusercontent.com/dzannotti/vscode-babel/master/screenshot.png "Screenshot")
 
 ## Ok i'm sold how do i try it?
 You can find it on VSCode Marketplace
